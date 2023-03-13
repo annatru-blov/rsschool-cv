@@ -33,7 +33,8 @@ function multiply(a, b){
   a * b
 }
 ## decision
-function multiply(a, b){
+function multiply(a, b)
+{
   return (a * b);
 }
 
